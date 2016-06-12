@@ -1,0 +1,31 @@
+{
+  "name": "angulearning",
+  "version": "1.0.0",
+  "description": "learning Angular via Pluralsight",
+  "main": "web-server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-ekupara/AnguLearning.git"
+  },
+  "keywords": [
+    "events",
+    "angular"
+  ],
+  "author": "andela-ekupara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andela-ekupara/AnguLearning/issues"
+  },
+  "homepage": "https://github.com/andela-ekupara/AnguLearning#readme"
+}
